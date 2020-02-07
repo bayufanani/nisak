@@ -20,8 +20,8 @@
             "kode": "0301"
         },
         "tindakan": {
-            "kode_tindakan": "7LABC01",
-            "nama_tindakan": "Golongan darah"
+            "kode_tindakan": null,
+            "nama_tindakan": null
         },
         "penjamin": {
             "nama": "BPJS",
@@ -49,8 +49,8 @@
             "kode": "0301"
         },
         "tindakan": {
-            "kode_tindakan": "7LABC0P",
-            "nama_tindakan": "DARAH RUTIN"
+            "kode_tindakan": null,
+            "nama_tindakan": null
         },
         "penjamin": {
             "nama": "BPJS",
@@ -78,8 +78,8 @@
             "kode": "0302"
         },
         "tindakan": {
-            "kode_tindakan": "7LABC0Q",
-            "nama_tindakan": "kontrol"
+            "kode_tindakan": null,
+            "nama_tindakan": null
         },
         "penjamin": {
             "nama": "BPJS",
@@ -107,8 +107,8 @@
             "kode": "0301"
         },
         "tindakan": {
-            "kode_tindakan": "7LABC0P",
-            "nama_tindakan": "DARAH RUTIN"
+            "kode_tindakan": null,
+            "nama_tindakan": null
         },
         "penjamin": {
             "nama": "BPJS",
@@ -136,8 +136,8 @@
             "kode": "0301"
         },
         "tindakan": {
-            "kode_tindakan": "7LABC0P",
-            "nama_tindakan": "DARAH RUTIN"
+            "kode_tindakan": null,
+            "nama_tindakan": null
         },
         "penjamin": {
             "nama": "BPJS",
