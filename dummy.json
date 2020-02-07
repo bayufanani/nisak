@@ -19,16 +19,10 @@
             "jenis": "IGD",
             "kode": "0301"
         },
-        "tindakan": [
-            {
-                "kode_tindakan": "7LABC01",
-                "nama_tindakan": "Golongan darah"
-            },
-            {
-                "kode_tindakan": "7LABC0P",
-                "nama_tindakan": "DARAH RUTIN"
-            }
-        ],
+        "tindakan": {
+            "kode_tindakan": "7LABC01",
+            "nama_tindakan": "Golongan darah"
+        },
         "penjamin": {
             "nama": "BPJS",
             "kode": "0789BP"
@@ -54,16 +48,10 @@
             "jenis": "IGD",
             "kode": "0301"
         },
-        "tindakan": [
-            {
-                "kode_tindakan": "7LABC01",
-                "nama_tindakan": "Golongan darah"
-            },
-            {
-                "kode_tindakan": "7LABC0P",
-                "nama_tindakan": "DARAH RUTIN"
-            }
-        ],
+        "tindakan": {
+            "kode_tindakan": "7LABC0P",
+            "nama_tindakan": "DARAH RUTIN"
+        },
         "penjamin": {
             "nama": "BPJS",
             "kode": "0789BP"
@@ -89,16 +77,10 @@
             "jenis": "IGD",
             "kode": "0302"
         },
-        "tindakan": [
-            {
-                "kode_tindakan": "7LABC02",
-                "nama_tindakan": "check up"
-            },
-            {
-                "kode_tindakan": "7LABC0Q",
-                "nama_tindakan": "kontrol"
-            }
-        ],
+        "tindakan": {
+            "kode_tindakan": "7LABC0Q",
+            "nama_tindakan": "kontrol"
+        },
         "penjamin": {
             "nama": "BPJS",
             "kode": "0789BP"
@@ -124,16 +106,10 @@
             "jenis": "IGD",
             "kode": "0301"
         },
-        "tindakan": [
-            {
-                "kode_tindakan": "7LABC01",
-                "nama_tindakan": "Golongan darah"
-            },
-            {
-                "kode_tindakan": "7LABC0P",
-                "nama_tindakan": "DARAH RUTIN"
-            }
-        ],
+        "tindakan": {
+            "kode_tindakan": "7LABC0P",
+            "nama_tindakan": "DARAH RUTIN"
+        },
         "penjamin": {
             "nama": "BPJS",
             "kode": "0789BP"
@@ -159,16 +135,10 @@
             "jenis": "IGD",
             "kode": "0301"
         },
-        "tindakan": [
-            {
-                "kode_tindakan": "7LABC01",
-                "nama_tindakan": "Golongan darah"
-            },
-            {
-                "kode_tindakan": "7LABC0P",
-                "nama_tindakan": "DARAH RUTIN"
-            }
-        ],
+        "tindakan": {
+            "kode_tindakan": "7LABC0P",
+            "nama_tindakan": "DARAH RUTIN"
+        },
         "penjamin": {
             "nama": "BPJS",
             "kode": "0789BP"
@@ -194,16 +164,10 @@
             "jenis": "IGD",
             "kode": "0301"
         },
-        "tindakan": [
-            {
-                "kode_tindakan": "7LABC01",
-                "nama_tindakan": "CHECK UP"
-            },
-            {
-                "kode_tindakan": "7LABC0P",
-                "nama_tindakan": "KUNJUNGAN"
-            }
-        ],
+        "tindakan": {
+            "kode_tindakan": "7LABC0P",
+            "nama_tindakan": "KUNJUNGAN"
+        },
         "penjamin": {
             "nama": "BPJS",
             "kode": "0789BP"
