@@ -1,0 +1,212 @@
+[
+    {
+        "no_registrasi": "20181101J001",
+        "waktu_registrasi": "2018-11-01 23:10:39",
+        "pasien": {
+            "no_rm": "0236304",
+            "nama": "MEGA ITSNA LUTHFI HASANAH",
+            "jenis_kelamin": "P",
+            "alamat": "DSN SUKODADI KEBONHARJO JATIROGO TUBAN ",
+            "tanggal_lahir": "1992-07-26",
+            "no_telphone": "085225065257"
+        },
+        "dokter_pengirim": {
+            "nama": "EDAH HUMAIDAH. dr.",
+            "kode": "D170402"
+        },
+        "unit_asal": {
+            "nama": "IGD",
+            "jenis": "IGD",
+            "kode": "0301"
+        },
+        "tindakan": [
+            {
+                "kode_tindakan": "7LABC01",
+                "nama_tindakan": "Golongan darah"
+            },
+            {
+                "kode_tindakan": "7LABC0P",
+                "nama_tindakan": "DARAH RUTIN"
+            }
+        ],
+        "penjamin": {
+            "nama": "BPJS",
+            "kode": "0789BP"
+        }
+    },
+    {
+        "no_registrasi": "20181101J001",
+        "waktu_registrasi": "2018-11-01 23:10:39",
+        "pasien": {
+            "no_rm": "0236304",
+            "nama": "MEGA ITSNA LUTHFI HASANAH",
+            "jenis_kelamin": "P",
+            "alamat": "DSN SUKODADI KEBONHARJO JATIROGO TUBAN ",
+            "tanggal_lahir": "1992-07-26",
+            "no_telphone": "085225065257"
+        },
+        "dokter_pengirim": {
+            "nama": "EDAH HUMAIDAH. dr.",
+            "kode": "D170402"
+        },
+        "unit_asal": {
+            "nama": "IGD",
+            "jenis": "IGD",
+            "kode": "0301"
+        },
+        "tindakan": [
+            {
+                "kode_tindakan": "7LABC01",
+                "nama_tindakan": "Golongan darah"
+            },
+            {
+                "kode_tindakan": "7LABC0P",
+                "nama_tindakan": "DARAH RUTIN"
+            }
+        ],
+        "penjamin": {
+            "nama": "BPJS",
+            "kode": "0789BP"
+        }
+    },
+    {
+        "no_registrasi": "20171201J002",
+        "waktu_registrasi": "2017-12-01 23:10:39",
+        "pasien": {
+            "no_rm": "0236332",
+            "nama": "DESTIANA CHROIRUN NISAK",
+            "jenis_kelamin": "P",
+            "alamat": "DSN ENTAH ",
+            "tanggal_lahir": "1996-07-26",
+            "no_telphone": "085225009320"
+        },
+        "dokter_pengirim": {
+            "nama": "BAYU FANANI. dr.",
+            "kode": "D170403"
+        },
+        "unit_asal": {
+            "nama": "IGD",
+            "jenis": "IGD",
+            "kode": "0302"
+        },
+        "tindakan": [
+            {
+                "kode_tindakan": "7LABC02",
+                "nama_tindakan": "check up"
+            },
+            {
+                "kode_tindakan": "7LABC0Q",
+                "nama_tindakan": "kontrol"
+            }
+        ],
+        "penjamin": {
+            "nama": "BPJS",
+            "kode": "0789BP"
+        }
+    },
+    {
+        "no_registrasi": "20191205J003",
+        "waktu_registrasi": "2019-12-05 12:10:39",
+        "pasien": {
+            "no_rm": "0236306",
+            "nama": "RIDHO ADNANTA",
+            "jenis_kelamin": "L",
+            "alamat": "DSN PULUNG",
+            "tanggal_lahir": "1996-03-12",
+            "no_telphone": "085225089833"
+        },
+        "dokter_pengirim": {
+            "nama": "EDAH HUMAIDAH. dr.",
+            "kode": "D170402"
+        },
+        "unit_asal": {
+            "nama": "IGD",
+            "jenis": "IGD",
+            "kode": "0301"
+        },
+        "tindakan": [
+            {
+                "kode_tindakan": "7LABC01",
+                "nama_tindakan": "Golongan darah"
+            },
+            {
+                "kode_tindakan": "7LABC0P",
+                "nama_tindakan": "DARAH RUTIN"
+            }
+        ],
+        "penjamin": {
+            "nama": "BPJS",
+            "kode": "0789BP"
+        }
+    },
+    {
+        "no_registrasi": "20191205J005",
+        "waktu_registrasi": "2019-12-05 07:10:39",
+        "pasien": {
+            "no_rm": "0236309",
+            "nama": "RIDHO TIDAK KENAL",
+            "jenis_kelamin": "L",
+            "alamat": "DSN ENTAH",
+            "tanggal_lahir": "1997-03-12",
+            "no_telphone": "085225089833"
+        },
+        "dokter_pengirim": {
+            "nama": "DANI. dr.",
+            "kode": "D170402"
+        },
+        "unit_asal": {
+            "nama": "IGD",
+            "jenis": "IGD",
+            "kode": "0301"
+        },
+        "tindakan": [
+            {
+                "kode_tindakan": "7LABC01",
+                "nama_tindakan": "Golongan darah"
+            },
+            {
+                "kode_tindakan": "7LABC0P",
+                "nama_tindakan": "DARAH RUTIN"
+            }
+        ],
+        "penjamin": {
+            "nama": "BPJS",
+            "kode": "0789BP"
+        }
+    },
+    {
+        "no_registrasi": "20181101J001",
+        "waktu_registrasi": "2018-11-01 23:10:39",
+        "pasien": {
+            "no_rm": "0236304",
+            "nama": "BAYU FANANI",
+            "jenis_kelamin": "L",
+            "alamat": "ANTAH BERANTAH",
+            "tanggal_lahir": "1994-02-8",
+            "no_telphone": "085225065012"
+        },
+        "dokter_pengirim": {
+            "nama": "BAYU FANANI. dr.",
+            "kode": "D170403"
+        },
+        "unit_asal": {
+            "nama": "IGD",
+            "jenis": "IGD",
+            "kode": "0301"
+        },
+        "tindakan": [
+            {
+                "kode_tindakan": "7LABC01",
+                "nama_tindakan": "CHECK UP"
+            },
+            {
+                "kode_tindakan": "7LABC0P",
+                "nama_tindakan": "KUNJUNGAN"
+            }
+        ],
+        "penjamin": {
+            "nama": "BPJS",
+            "kode": "0789BP"
+        }
+    }
+]
