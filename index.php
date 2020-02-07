@@ -3,7 +3,7 @@ header('Content-Type: application/json');
 
 if (!isset($_GET['search'])) {
     echo json_encode([
-        'succes' => false,
+        'success' => false,
         'message' => 'parameter search tidak ada'
     ]);
     return;
