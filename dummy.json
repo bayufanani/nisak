@@ -1,5 +1,4 @@
-[
-    {
+[{
         "no_registrasi": "20181205J055",
         "waktu_registrasi": "2018-11-01 23:10:39",
         "pasien": {
@@ -171,6 +170,40 @@
         "penjamin": {
             "nama": "BPJS",
             "kode": "0789BP"
+        }
+    },
+    {
+        "no_registrasi": "2003040312",
+        "waktu_registrasi": "2020-03-03 12:58:51",
+        "pasien": {
+            "no_rm": "33665067",
+            "nama": "ILMI TASYA AMELIA",
+            "jenis_kelamin": "P",
+            "alamat": "DSN. KRAJAN ",
+            "tanggal_lahir": "2009-03-31",
+            "no_telphone": ""
+        },
+        "dokter_pengirim": {
+            "nama": "DR. ANDRI KURNIA WAHYUDI",
+            "kode": "103"
+        },
+        "unit_asal": {
+            "nama": "VIP-TERATAI",
+            "jenis": "5",
+            "kode": "101020112"
+        },
+        "tindakan": [{
+                "kode_tindakan": "14443",
+                "nama_tindakan": "Darah Lengkap"
+            },
+            {
+                "kode_tindakan": "14443",
+                "nama_tindakan": "Darah Lengkap"
+            }
+        ],
+        "penjamin": {
+            "nama": "BPJS",
+            "kode": "2"
         }
     }
 ]
