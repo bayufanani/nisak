@@ -15,9 +15,18 @@ $search = $_GET['search'];
 
 $respon = [];
 foreach ($json as $data) {
-    if (strpos(strtolower($data->pasien->nama), strtolower($search)) !== false) {
+    // if (strpos(strtolower($data->pasien->nama), strtolower($search)) !== false) {
+    if ($data->no_registrasi == $search) {
         array_push($respon, $data);
     }
+}
+
+if (count($respon)  < 1) {
+    echo json_encode([
+        'success' => false,
+        'message' => 'data tidak ditemukan'
+    ]);
+    exit;
 }
 
 echo json_encode([
