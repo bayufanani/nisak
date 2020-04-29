@@ -193,14 +193,9 @@
             "kode": "101020112"
         },
         "tindakan": [{
-                "kode_tindakan": "14443",
-                "nama_tindakan": "Darah Lengkap"
-            },
-            {
-                "kode_tindakan": "14443",
-                "nama_tindakan": "Darah Lengkap"
-            }
-        ],
+            "kode_tindakan": "14443",
+            "nama_tindakan": "Darah Lengkap"
+        }],
         "penjamin": {
             "nama": "BPJS",
             "kode": "2"
